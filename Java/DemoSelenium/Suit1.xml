@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suit1">
+    <test name = "Test1">
+        <classes>
+                <class name="TesNGDEmo.TC1">
+                    <methods>
+                        <include name="Test1"/>
+                    </methods>
+
+                </class>
+            <class name="TesNGDEmo.TC2">
+                <methods>
+                    <include name="Test2"/>
+                </methods>
+
+            </class>
+
+        </classes>
+    </test>
+
+    <test name = "Test2">
+        <classes>
+            <class name="TesNGDEmo.TC3">
+                <methods>
+                    <include name="Test3"/>
+                </methods>
+
+            </class>
+            <class name="TesNGDEmo.TC4">
+                <methods>
+                    <include name="Test4"/>
+                </methods>
+
+            </class>
+            <class name="TesNGDEmo.FirstTestCaseTestNG">
+                <methods>
+                    <include name="Test4"/>
+                </methods>
+
+            </class>
+
+        </classes>
+    </test>
+</suite>

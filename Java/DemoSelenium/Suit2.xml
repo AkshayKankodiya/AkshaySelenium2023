@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suit2">
+    <test name ="GroupBy">
+        <groups>
+            <run>
+                <include name="sanity"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="TestNGPriotrize.GroupBytestDemo"></class>
+        </classes>
+
+    </test>
+    <suite-files>
+        <suite-file path="Suit1.xml"/>
+    </suite-files>
+</suite>
