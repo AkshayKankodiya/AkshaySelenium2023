@@ -1,0 +1,141 @@
+Index: AkshaySelenium2023.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/Java/DemoSelenium/src\" isTestSource=\"false\" packagePrefix=\"JAVA_Pract\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"module-library\">\r\n      <library>\r\n        <CLASSES>\r\n          <root url=\"jar://$USER_HOME$/Downloads/jcommander-1.82.jar!/\" />\r\n          <root url=\"jar://$USER_HOME$/Downloads/selenium-server-4.13.0.jar!/\" />\r\n          <root url=\"jar://$USER_HOME$/Downloads/testng-7.4.0.jar!/\" />\r\n          <root url=\"file://$MODULE_DIR$\" />\r\n        </CLASSES>\r\n        <JAVADOC />\r\n        <SOURCES>\r\n          <root url=\"file://$MODULE_DIR$/Java/DemoAK/src\" />\r\n          <root url=\"file://$MODULE_DIR$/Java/DemoSelenium/src\" />\r\n        </SOURCES>\r\n      </library>\r\n    </orderEntry>\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/AkshaySelenium2023.iml b/AkshaySelenium2023.iml
+--- a/AkshaySelenium2023.iml	(revision 3915c279c816699007f5e5681acddec9b595b8ba)
++++ b/AkshaySelenium2023.iml	(date 1702292662135)
+@@ -7,11 +7,10 @@
+     </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="module-library">
++    <orderEntry type="module-library" exported="">
+       <library>
+         <CLASSES>
+           <root url="jar://$USER_HOME$/Downloads/jcommander-1.82.jar!/" />
+-          <root url="jar://$USER_HOME$/Downloads/selenium-server-4.13.0.jar!/" />
+           <root url="jar://$USER_HOME$/Downloads/testng-7.4.0.jar!/" />
+           <root url="file://$MODULE_DIR$" />
+         </CLASSES>
+@@ -20,6 +19,15 @@
+           <root url="file://$MODULE_DIR$/Java/DemoAK/src" />
+           <root url="file://$MODULE_DIR$/Java/DemoSelenium/src" />
+         </SOURCES>
++      </library>
++    </orderEntry>
++    <orderEntry type="module-library" exported="">
++      <library>
++        <CLASSES>
++          <root url="jar://$USER_HOME$/Downloads/selenium-server-4.16.1.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
+       </library>
+     </orderEntry>
+   </component>
+Index: Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package POMdemo;\r\n\r\nimport org.openqa.selenium.WebDriver;\r\nimport org.openqa.selenium.chrome.ChromeDriver;\r\nimport org.testng.annotations.Test;\r\n\r\nimport java.util.concurrent.TimeUnit;\r\n\r\npublic class MainClassExecutionTest {\r\n    @Test\r\n    public void exicuteTest() {\r\n        WebDriver driver = new ChromeDriver();\r\n        //Elementsofpage ELM = new Elementsofpage(driver);\r\n        Elementsofpage_Findby ELM = new Elementsofpage_Findby(driver);\r\n        driver.get(\"https://nxtgenaiacademy.com/demo-site/\");\r\n        driver.manage().window().maximize();\r\n        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);\r\n        ELM.setFirstName(\"Akshay Kumar\");\r\n        ELM.setLastName(\"Kankodiya\");\r\n        ELM.setGender();\r\n        ELM.setAddress(\"Prayagraj Soc\");\r\n        ELM.setAddress1(\"Waghodia road\");\r\n        ELM.setCity(\"Vadodara\");\r\n        ELM.setEmail(\"Akshay@gmail.com\");\r\n        ELM.setMobile(\"88887777888\");\r\n        ELM.Date(\"12/04/2022\");\r\n        ELM.Course();\r\n        ELM.Very(\"99\");\r\n        ELM.Submit();\r\n        ELM.VR();\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java b/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java
+--- a/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java	(revision 3915c279c816699007f5e5681acddec9b595b8ba)
++++ b/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java	(date 1702292391398)
+@@ -10,8 +10,8 @@
+     @Test
+     public void exicuteTest() {
+         WebDriver driver = new ChromeDriver();
+-        //Elementsofpage ELM = new Elementsofpage(driver);
+-        Elementsofpage_Findby ELM = new Elementsofpage_Findby(driver);
++        //POMdemo.Elementsofpage ELM = new POMdemo.Elementsofpage(driver);
++        POMdemo.Elementsofpage_Findby ELM = new POMdemo.Elementsofpage_Findby(driver);
+         driver.get("https://nxtgenaiacademy.com/demo-site/");
+         driver.manage().window().maximize();
+         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"017c819e-829d-407b-abe8-48852d3bf4c5\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AkshaySelenium2023.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/AkshaySelenium2023.iml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2WcSEhKNKUBcVjW2pqPeF5xJuRN\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/QA-Rahul/Downloads/testng-7.4.0.jar\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"017c819e-829d-407b-abe8-48852d3bf4c5\" name=\"Changes\" comment=\"\" />\r\n      <created>1697030267307</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1697030267307</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3915c279c816699007f5e5681acddec9b595b8ba)
++++ b/.idea/workspace.xml	(date 1702293384058)
+@@ -5,9 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="017c819e-829d-407b-abe8-48852d3bf4c5" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/AkshaySelenium2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AkshaySelenium2023.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -33,12 +33,57 @@
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "last_opened_file_path": "C:/Users/QA-Rahul/Downloads/testng-7.4.0.jar",
++    "ignore.virus.scanning.warn.message": "true",
++    "last_opened_file_path": "C:/Users/QA-Rahul/Downloads/selenium-server-4.16.1.jar",
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0"
++    "project.structure.side.proportion": "0.0",
++    "settings.editor.selected.configurable": "editor.reader.mode"
+   }
+ }]]></component>
++  <component name="RunManager">
++    <configuration name="MainClassExecutionTest" type="TestNG" temporary="true" nameIsGenerated="true">
++      <module name="AkshaySelenium2023" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="POMdemo.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="POMdemo" />
++      <option name="MAIN_CLASS_NAME" value="POMdemo.MainClassExecutionTest" />
++      <option name="TEST_OBJECT" value="CLASS" />
++      <properties />
++      <listeners />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="MainClassExecutionTest.exicuteTest" type="TestNG" temporary="true" nameIsGenerated="true">
++      <module name="AkshaySelenium2023" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="POMdemo.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="POMdemo" />
++      <option name="MAIN_CLASS_NAME" value="POMdemo.MainClassExecutionTest" />
++      <option name="METHOD_NAME" value="exicuteTest" />
++      <option name="TEST_OBJECT" value="METHOD" />
++      <properties />
++      <listeners />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="TestNG.MainClassExecutionTest.exicuteTest" />
++        <item itemvalue="TestNG.MainClassExecutionTest" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">

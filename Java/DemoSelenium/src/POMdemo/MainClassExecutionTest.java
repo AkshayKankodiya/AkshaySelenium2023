@@ -11,7 +11,8 @@ public class MainClassExecutionTest {
     public void exicuteTest() {
         WebDriver driver = new ChromeDriver();
         //Elementsofpage ELM = new Elementsofpage(driver);
-        Elementsofpage_Findby ELM = new Elementsofpage_Findby(driver);
+        //Elementsofpage_Findby ELM = new Elementsofpage_Findby(driver);
+        POMdemo.Elementsofpage_Findby ELM =new POMdemo.Elementsofpage_Findby(driver);
         driver.get("https://nxtgenaiacademy.com/demo-site/");
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
