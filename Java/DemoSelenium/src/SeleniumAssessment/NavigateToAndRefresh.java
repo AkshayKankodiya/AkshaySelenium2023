@@ -16,7 +16,7 @@ public class NavigateToAndRefresh extends MethodsForDriver {
      NavigateToAndRefresh navigatetoandrefresh =new NavigateToAndRefresh();
      navigatetoandrefresh.openDriver();
      navigatetoandrefresh.lifePartnerURL(LifePartnerUrl);
-     navigatetoandrefresh.Explicitly_Visible(navigatetoandrefresh.findByXpathReturnWebElement(xpath1));
+    // navigatetoandrefresh.Explicitly_Visible(navigatetoandrefresh.findByXpathReturnWebElement(xpath1));
      navigatetoandrefresh.findByXpathReturnWebElement(xpath1).click();
      navigatetoandrefresh.backToPage();
      navigatetoandrefresh.forwordToPage();
