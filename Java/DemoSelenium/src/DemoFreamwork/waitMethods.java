@@ -1,24 +1,28 @@
 package JAVA_Pract.DemoFreamwork;
 
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.time.Duration;
 
 
 
-public class waitMethods  {
+public class waitMethods {
+    WebDriver driver;
 
-}/* {
 
-    public void Explicitly_Clickeble (WebElement element) {
+    public void Explicitly_Clickeble(WebElement element) {
         System.out.println("Waiting for clickeble Element");
-        WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(90));
+        WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(90));
         wait.until(ExpectedConditions.refreshed(ExpectedConditions.elementToBeClickable(element)));
     }
-    public void Explicitly_Visible (WebElement element) {
+
+    public void Explicitly_Visible(WebElement element) {
         System.out.println("Waiting for Visible Element");
-        WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(90));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(90));
         wait.until(ExpectedConditions.refreshed(ExpectedConditions.visibilityOf(element)));
     }
 
 }
-*/
