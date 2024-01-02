@@ -1,4 +1,4 @@
-package JAVA_Pract.DemoFreamwork;
+package JAVA_Pract.DriverFact;
 
 public class Constant {
 

@@ -1,13 +1,13 @@
-package JAVA_Pract.DemoFreamwork;
+package JAVA_Pract.DriverFact;
 
-import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
-import org.testng.annotations.Test;
+import org.openqa.selenium.support.PageFactory;
 
 public class webElements {
-    @FindBy(xpath = "//i[contains(@class,'fa-home')]") WebElement signUpbutton;
+    @FindBy(xpath = "//a[contains(text(), 'Signup / Login')]")
+    public WebElement signUpbutton;
     @FindBy(xpath = "//input[@name='name']") WebElement inputTextbox;
     @FindBy(xpath = "//input[@data-qa='signup-email' and @type ='email' ]") WebElement regstrationEmail;
     @FindBy(xpath = "//button[text()='Signup' and @ type = 'submit']") WebElement registartionButton;
@@ -27,7 +27,6 @@ public class webElements {
     @FindBy(xpath = "//input[@id='zipcode']") WebElement zipTextbox;
     @FindBy(xpath = "//input[@id='mobile_number']") WebElement mobTextbox;
     @FindBy(xpath = "//button[text()='Create Account' and @type ='submit']") WebElement createAccBtn;
-
 
 
 
