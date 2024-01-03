@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="017c819e-829d-407b-abe8-48852d3bf4c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ElementsActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Page.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/test52.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/BrowserAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ConstantData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/waitMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/WaitActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/webElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/IframeHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/IframeHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FrameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FrameHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/test52.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/Browser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/waitMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/webElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumAssessment/CheckLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumAssessment/CheckLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumAssessment/IframeHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumAssessment/IframeHandle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumDemo/FrameHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumDemo/FrameHandler.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
