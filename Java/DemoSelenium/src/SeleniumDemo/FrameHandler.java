@@ -51,7 +51,7 @@ public class FrameHandler {
         driver.switchTo().defaultContent();
         driver.switchTo().frame(2);
         driver.switchTo().frame(0);
-        WebElement wb7=driver.findElement(By.xpath("//div[text()='Form Filling Demo Page']"));
+        WebElement wb7=driver.findElement(By.xpath("//div[text()='Form Filling Demo AutomationExs_Page']"));
         System.out.println(wb7.getText());
 
 

@@ -9,9 +9,12 @@ import java.time.Duration;
 
 
 
-public class waitMethods {
-    WebDriver driver;
+public class WaitActions {
+     private WebDriver driver;
 
+    public WaitActions(WebDriver driver) {
+        this.driver = driver;
+    }
 
     public void Explicitly_Clickeble(WebElement element) {
         System.out.println("Waiting for clickeble Element");

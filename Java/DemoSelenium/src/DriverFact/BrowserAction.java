@@ -2,19 +2,20 @@ package JAVA_Pract.DriverFact;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.Test;
 
-public class Browser {
+public class BrowserAction {
     public WebDriver driver;
 
-    public void openBrowser(){
+    public WebDriver openBrowser() {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.navigate().to("https://automationexercise.com/");
-        this.driver = driver;
-        PageFactory.initElements(driver, this);
+       // driver.navigate().to("https://automationexercise.com/");
+
+        return driver;
     }
-//    public Browser(WebDriver driver){
+    }
+//    public BrowserAction(WebDriver driver){
 //        this.driver = driver;
 //        //Create all webElement of this page
 //        //PageFactory.initElements(driver, this);
@@ -22,4 +23,4 @@ public class Browser {
 
 
 
-}
+

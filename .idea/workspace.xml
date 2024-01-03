@@ -5,17 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="017c819e-829d-407b-abe8-48852d3bf4c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ElementsActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/test52.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/test52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/waitMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/waitMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/webElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/webElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Browser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/waitMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/webElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/test52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/BrowserAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ConstantData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/waitMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/WaitActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/webElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/IframeHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/IframeHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FrameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FrameHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/test52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/waitMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/webElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumAssessment/CheckLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumAssessment/CheckLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumAssessment/IframeHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumAssessment/IframeHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumDemo/FrameHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/SeleniumDemo/FrameHandler.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,37 +77,91 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/pomTest/SeleniumJavaAutomation-master/SeleniumJavaAutomation-master",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pomTest/SeleniumJavaAutomation-master/SeleniumJavaAutomation-master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JAVA_Pract.DemoFreamwork" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.test52">
-    <configuration name="MainClassExecutionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Automation_test">
+    <configuration name="Automation_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AkshaySelenium2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POMdemo.*" />
+          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="POMdemo" />
-      <option name="MAIN_CLASS_NAME" value="POMdemo.MainClassExecutionTest" />
+      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Automation_test" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation_test.setupBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Automation_test" />
+      <option name="METHOD_NAME" value="setupBrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation_test.tree" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Automation_test" />
+      <option name="METHOD_NAME" value="tree" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserAction.openBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_Pract.DriverFact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JAVA_Pract.DriverFact" />
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DriverFact.BrowserAction" />
+      <option name="METHOD_NAME" value="openBrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -119,66 +185,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Page.run51" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Page" />
-      <option name="METHOD_NAME" value="run51" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test52" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.test52" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test52.tree" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.test52" />
-      <option name="METHOD_NAME" value="tree" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.test52" />
+        <item itemvalue="TestNG.Automation_test" />
+        <item itemvalue="TestNG.Automation_test.setupBrowser" />
+        <item itemvalue="TestNG.Automation_test.tree" />
+        <item itemvalue="TestNG.BrowserAction.openBrowser" />
         <item itemvalue="TestNG.Page" />
-        <item itemvalue="TestNG.Page.run51" />
-        <item itemvalue="TestNG.MainClassExecutionTest" />
-        <item itemvalue="TestNG.test52.tree" />
       </list>
     </recent_temporary>
   </component>

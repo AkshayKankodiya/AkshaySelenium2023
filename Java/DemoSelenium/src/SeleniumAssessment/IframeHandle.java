@@ -33,7 +33,7 @@ public class IframeHandle {
         driver.findElement(By.xpath("//input[@name='mytext3']")).sendKeys("THIS IS 3rd FRAME ");
         driver.switchTo().frame(0);
 
-        WebElement wb7 = driver.findElement(By.xpath("//div[text()='Form Filling Demo Page']"));
+        WebElement wb7 = driver.findElement(By.xpath("//div[text()='Form Filling Demo AutomationExs_Page']"));
         System.out.println(wb7.getText());
 
 

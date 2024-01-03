@@ -48,7 +48,7 @@ public class CheckLogin {
         driver.findElement(By.xpath("//input[@id='login']")).sendKeys(password);
         driver.findElement(By.xpath("//span[text()='Sign in']")).click();
 
-        Assert.assertEquals(driver.getTitle(), "Home Page", "Error In Login >>>>");
+        Assert.assertEquals(driver.getTitle(), "Home AutomationExs_Page", "Error In Login >>>>");
         driver.quit();
 
 
