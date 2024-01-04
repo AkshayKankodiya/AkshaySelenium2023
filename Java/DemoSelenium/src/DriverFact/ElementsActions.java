@@ -10,8 +10,6 @@ public class ElementsActions {
 
 
     public WebDriver driver;
-    WaitActions waitActions;
-
 
     @FindBy(xpath = "//a[contains(text(), 'Signup / Login')]")
     public WebElement signUpbutton;

@@ -2,6 +2,7 @@ package JAVA_Pract.DemoFreamwork;
 
 import JAVA_Pract.DriverFact.*;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 
 import java.util.Random;
@@ -75,6 +76,15 @@ public class Automation_Page extends ElementsActions  {
         actionClass.verifyAccountCreateElement(SuccessMessage);
 
     }
+    /*
+    public void clickSetting(WebElement element) throws InterruptedException {
+        actionClass.clickElement(element);
+
+    }
+    public void inputtext(WebElement element,String value){
+        actionClass.inputText(element, value);
+
+    }-*/
 
 
 }

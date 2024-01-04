@@ -1,6 +1,7 @@
 package JAVA_Pract.DemoFreamwork;
 
 import JAVA_Pract.DriverFact.BrowserAction;
+import JAVA_Pract.DriverFact.ConstantData;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterTest;
@@ -34,6 +35,9 @@ public class Automation_test {
     public void fillFormTest() throws InterruptedException {
         page.fillFormPage();
     }
+        /*page.clickSetting(page.radioBtnMale);
+        page.inputtext(page.fNameTextbox, ConstantData.FIRSTNAME);*/
+
 
 
     @AfterClass

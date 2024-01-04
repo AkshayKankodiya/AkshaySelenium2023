@@ -17,11 +17,12 @@ public class Action_class extends WaitActions {
     }
 
     public void clickElement(WebElement element) throws InterruptedException {
+
         Explicitly_Clickeble(element);
-        Thread.sleep(3000);
         element.click();
 
     }
+
 
     public void inputText(WebElement element, String text) {
         Explicitly_Clickeble(element);
