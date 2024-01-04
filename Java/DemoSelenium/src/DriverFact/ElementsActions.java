@@ -21,7 +21,7 @@ public class ElementsActions {
     public WebElement regstrationEmail;
     @FindBy(xpath = "//button[text()='Signup' and @ type = 'submit']")
     public WebElement registartionButton;
-    @FindBy(xpath = "//input[@id='id_gender1']")
+    @FindBy(xpath = "//input[@id='id_gender1' and @name = 'title']")
     public WebElement radioBtnMale;
     @FindBy(xpath = "//input[@id='name']")
     public WebElement nameTextbox;
@@ -41,6 +41,8 @@ public class ElementsActions {
     public WebElement compTextbox;
     @FindBy(xpath = "//input[@id='address1']")
     public WebElement add1Textbox;
+    @FindBy(xpath = "//input[@id ='address2' and @name='address2']")
+    public WebElement add2Textbox;
     @FindBy(xpath = "//select[@id='country']")
     public WebElement contryDropdown;
     @FindBy(xpath = "//input[@id='state']")
@@ -53,6 +55,9 @@ public class ElementsActions {
     public WebElement mobTextbox;
     @FindBy(xpath = "//button[text()='Create Account' and @type ='submit']")
     public WebElement createAccBtn;
+    // Assuming there's a success message displayed after account creation
+    @FindBy(xpath = "//p[contains(text(), 'Congratulations')]")
+    public WebElement SuccessMessage;
 
 
    public ElementsActions(WebDriver driver)

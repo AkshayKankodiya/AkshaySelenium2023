@@ -2,6 +2,7 @@ package JAVA_Pract.DemoFreamwork;
 
 import JAVA_Pract.DriverFact.*;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 
 import java.util.Random;
 
@@ -30,12 +31,12 @@ public class Automation_Page extends ElementsActions  {
     }
 
    // Setup Browser
-    public void setupBrowser () throws InterruptedException {
+    public void setupBrowserpage () throws InterruptedException {
         driver.get(ConstantData.BASE_URL);
-        actionClass.clickElement(signUpbutton);
+       // actionClass.clickElement(signUpbutton);
     }
     // Go to Registration page
-    public void randomEmail () throws InterruptedException {
+    public void randomEmailPage () throws InterruptedException {
 
         actionClass.inputText(inputTextbox,ConstantData.USERNAME);
 
@@ -51,10 +52,30 @@ public class Automation_Page extends ElementsActions  {
     }
     // fill the Registration page
 
-    public void fillForm(){
+    public void fillFormPage() throws InterruptedException {
+        actionClass.clickElement(radioBtnMale);
         actionClass.inputText(passWordtextbox,ConstantData.PASSWORD);
+        actionClass.selectByVisibilityText(dayDropdown,ConstantData.DAY);
+        actionClass.selectByIndex(monthDropdown,ConstantData.MONTH);
+        actionClass.selectByVisibilityText(yearDropdown,ConstantData.YEAR);
+        actionClass.inputText(fNameTextbox,ConstantData.FIRSTNAME);
+        actionClass.inputText(lNameTextbox,ConstantData.LASTTNAME);
+        actionClass.inputText(compTextbox,ConstantData.COMPANY);
+        actionClass.inputText(add1Textbox,ConstantData.ADDRESS1);
+        actionClass.inputText(add2Textbox,ConstantData.ADDRESS2);
+        actionClass.selectByVisibilityText(contryDropdown,ConstantData.COUNTRY);
+        actionClass.inputText(stateTextbox,ConstantData.STATE);
+        actionClass.inputText(cityTextbox,ConstantData.CITY);
+        actionClass.inputText(zipTextbox,ConstantData.ZIPCODE);
+        actionClass.inputText(mobTextbox,ConstantData.MOBILE);
+        actionClass.clickElement(createAccBtn);
+        System.out.println("Account is created Succsessfully");
+        actionClass.verifyAccountCreateUrl(ConstantData.ExpectedSuccessPageURL);
+        actionClass.verifyAccountCreateElement(SuccessMessage);
 
     }
+
+
 
 
 

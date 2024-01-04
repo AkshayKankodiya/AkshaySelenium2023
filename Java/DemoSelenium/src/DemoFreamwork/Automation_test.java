@@ -2,6 +2,8 @@ package JAVA_Pract.DemoFreamwork;
 
 import JAVA_Pract.DriverFact.BrowserAction;
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -18,19 +20,26 @@ public class Automation_test {
     }
 
     @Test(priority = 0)
-    public void setupBrw() throws InterruptedException {
-        page.setupBrowser();
+    public void setupBrowsertest() throws InterruptedException {
+        page.setupBrowserpage();
     }
 
     @Test(priority = 1)
-    public void regEmail() throws InterruptedException {
-        page.randomEmail();
+    public void randomEmailtest() throws InterruptedException {
+        page.randomEmailPage();
 
     }
     @Test(priority = 2)
-    public void Fillf(){
-        page.fillForm();
+    public void fillFormTest() throws InterruptedException {
+        page.fillFormPage();
     }
 
 
-}
+
+
+   // @AfterClass
+    //public void closeDriver(){
+        //driver.quit();
+    }
+
+

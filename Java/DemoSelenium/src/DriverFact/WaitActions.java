@@ -17,7 +17,7 @@ public class WaitActions {
     }
 
     public void Explicitly_Clickeble(WebElement element) {
-        System.out.println("Waiting for clickeble Element");
+        //System.out.println("Waiting for clickeble Element");
         WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(90));
         wait.until(ExpectedConditions.refreshed(ExpectedConditions.elementToBeClickable(element)));
     }

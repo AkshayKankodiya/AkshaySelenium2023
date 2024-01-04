@@ -6,6 +6,60 @@
   <component name="ChangeListManager">
     <list default="true" id="017c819e-829d-407b-abe8-48852d3bf4c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/AbstractclassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/AbstractclassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/waitMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/waitMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/BrowserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/BrowserAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ConstantData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ConstantData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ElementsActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ElementsActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/WaitActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage_Findby.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage_Findby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/ChangeCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/ChangeCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/DataFromTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/DataFromTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/FindHref.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/FindHref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/IframeHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/IframeHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/NavigateToAndRefresh.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/NavigateToAndRefresh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/SearchItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/SearchItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/TagWithSpesificClassName.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/TagWithSpesificClassName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DemoForGIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DemoForGIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Drag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Drag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DragAndDropDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DragAndDropDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DropDownDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DynamicXpathYahoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DynamicXpathYahoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FileUploadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FileUploadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FrameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FrameHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Matrimony.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Matrimony.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RadioButtonsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RadioButtonsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RegisterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RegisterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SliderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SliderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SwitchWindoDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SwitchWindoDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/BlogContentCompIY.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/BlogContentCompIY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/FirstTestCaseTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/FirstTestCaseTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/AssertionTestNGDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/AssertionTestNGDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DataProviderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DataProviderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DataProviderDemoDATA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DataProviderDemoDATA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DepandancyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DepandancyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/GroupBytestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/GroupBytestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/Parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/Parameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/ParralelTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/ParralelTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/ParrelleTestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/ParrelleTestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/PriorityDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/PriorityDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/ConstantData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/ConstantData.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +78,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Page.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/test52.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Browser.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Constant.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/waitMethods.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/webElements.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/ChangeCurrency.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/MethodsForDriver.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/NavigateToAndRefresh.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/SearchItems.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,33 +90,26 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2WcSEhKNKUBcVjW2pqPeF5xJuRN" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/pomTest/SeleniumJavaAutomation-master/SeleniumJavaAutomation-master&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Automation_test.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Downloads/selenium-server-4.16.1.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="JAVA_Pract.DemoFreamwork" />
-    </key>
-  </component>
+}]]></component>
   <component name="RunManager" selected="TestNG.Automation_test">
     <configuration name="Automation_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AkshaySelenium2023" />
@@ -92,54 +128,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Automation_test.setupBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Browser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AkshaySelenium2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
+          <option name="PATTERN" value="JAVA_Pract.actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Automation_test" />
-      <option name="METHOD_NAME" value="setupBrowser" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Automation_test.tree" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Automation_test" />
-      <option name="METHOD_NAME" value="tree" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BrowserAction.openBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DriverFact.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DriverFact" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DriverFact.BrowserAction" />
-      <option name="METHOD_NAME" value="openBrowser" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="JAVA_Pract.actions" />
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.actions.Browser" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -163,15 +162,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Testclass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Testclass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testclass.firstrun" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Testclass" />
+      <option name="METHOD_NAME" value="firstrun" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.Automation_test" />
-        <item itemvalue="TestNG.Automation_test.setupBrowser" />
-        <item itemvalue="TestNG.Automation_test.tree" />
-        <item itemvalue="TestNG.BrowserAction.openBrowser" />
+        <item itemvalue="TestNG.Testclass" />
         <item itemvalue="TestNG.Page" />
+        <item itemvalue="TestNG.Browser" />
+        <item itemvalue="TestNG.Testclass.firstrun" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
