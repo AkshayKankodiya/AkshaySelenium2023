@@ -11,7 +11,7 @@ import java.util.Random;
 //import static JAVA_Pract.SeleniumAssessment.MethodsForDriver.driver;
 
 
-public class Automation_Page extends ElementsActions {
+public class Automation_Page extends ElementsActions  {
 
     // Create a BrowserAction object with an existing WebDriver instance
     public WebDriver driver;
@@ -22,7 +22,7 @@ public class Automation_Page extends ElementsActions {
 
 
     public Automation_Page(WebDriver driver) {
-        super(driver);
+       super(driver);
         this.driver = driver;
         this.browser = new BrowserAction();
         this.elementsActions = new ElementsActions(driver);

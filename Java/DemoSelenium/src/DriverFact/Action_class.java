@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
 public class Action_class extends WaitActions {
-    public WebDriver driver;
+    //public WebDriver driver;
 
     public Action_class(WebDriver driver) {
         super(driver);
