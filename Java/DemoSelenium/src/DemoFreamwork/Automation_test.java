@@ -34,10 +34,10 @@ public class Automation_test {
     @Test(priority = 2)
     public void fillFormTest() throws InterruptedException {
         page.fillFormPage();
-    }
+
         /*page.clickSetting(page.radioBtnMale);
         page.inputtext(page.fNameTextbox, ConstantData.FIRSTNAME);*/
-
+    }
 
 
     @AfterClass

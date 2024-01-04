@@ -61,7 +61,6 @@ public class ElementsActions {
     public ElementsActions(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
-
     }
 
 

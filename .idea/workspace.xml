@@ -6,12 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="017c819e-829d-407b-abe8-48852d3bf4c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/BrowserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/BrowserAction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ElementsActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ElementsActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
