@@ -6,60 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="017c819e-829d-407b-abe8-48852d3bf4c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/AbstractclassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/AbstractclassDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/waitMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/waitMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/BrowserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/BrowserAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ConstantData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ConstantData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ElementsActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/ElementsActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/WaitActions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage_Findby.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/Elementsofpage_Findby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/POMdemo/MainClassExecutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/ChangeCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/ChangeCurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/CheckLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/DataFromTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/DataFromTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/FindHref.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/FindHref.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/IframeHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/IframeHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/NavigateToAndRefresh.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/NavigateToAndRefresh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/SearchItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/SearchItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/TagWithSpesificClassName.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumAssessment/TagWithSpesificClassName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePicker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DemoForGIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DemoForGIT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Drag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Drag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DragAndDropDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DragAndDropDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DropDownDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DynamicXpathYahoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DynamicXpathYahoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FileUploadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FileUploadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FrameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FrameHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Matrimony.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Matrimony.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RadioButtonsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RadioButtonsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RegisterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RegisterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SliderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SliderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SwitchWindoDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SwitchWindoDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/BlogContentCompIY.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/BlogContentCompIY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/FirstTestCaseTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/FirstTestCaseTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TesNGDEmo/TC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/AssertionTestNGDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/AssertionTestNGDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DataProviderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DataProviderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DataProviderDemoDATA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DataProviderDemoDATA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DepandancyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/DepandancyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/GroupBytestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/GroupBytestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/Parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/Parameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/ParralelTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/ParralelTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/ParrelleTestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/ParrelleTestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/PriorityDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/TestNGPriotrize/PriorityDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/ConstantData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/ConstantData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/WaitActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/WaitActions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +61,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Automation_test">
+  <component name="RunManager">
     <configuration name="Automation_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AkshaySelenium2023" />
       <extension name="coverage">

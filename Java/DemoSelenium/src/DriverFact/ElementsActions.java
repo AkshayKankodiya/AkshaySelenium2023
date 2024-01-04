@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 public class ElementsActions {
 
 
-    private WebDriver driver;
+    public WebDriver driver;
     WaitActions waitActions;
 
 
@@ -60,15 +60,14 @@ public class ElementsActions {
     public WebElement SuccessMessage;
 
 
-   public ElementsActions(WebDriver driver)
-    {
+    public ElementsActions(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
 
     }
 
 
-    }
+}
 
 
 

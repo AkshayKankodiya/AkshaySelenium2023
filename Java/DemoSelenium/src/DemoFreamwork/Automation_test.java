@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class Automation_test {
-    WebDriver driver;
+    public WebDriver driver;
     Automation_Page page;
 
     @BeforeClass
@@ -29,17 +29,16 @@ public class Automation_test {
         page.randomEmailPage();
 
     }
+
     @Test(priority = 2)
     public void fillFormTest() throws InterruptedException {
         page.fillFormPage();
     }
 
 
-
-
-   // @AfterClass
-    //public void closeDriver(){
-        //driver.quit();
+    @AfterClass
+    public void closeDriver() {
+        driver.quit();
     }
 
-
+}
