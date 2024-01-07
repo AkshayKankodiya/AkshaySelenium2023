@@ -16,9 +16,9 @@ public class RegisterDemo {
         driver.manage().window().maximize(); //to Maximize window
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS); //
         //1st Method
-        driver.navigate().to("https://www.automationexercise.com/");
-        WebElement loginbtn = driver.findElement(By.xpath("//*[@class='fa fa-lock']"));
-        loginbtn.click();
+        driver.navigate().to("https://www.automationexercise.com/login");
+       // WebElement loginbtn = driver.findElement(By.xpath("//*[@class='fa fa-lock']"));
+        //loginbtn.click();
         WebElement name = driver.findElement(By.xpath("//input[@name='name']"));
         name.sendKeys("Akshay");
 

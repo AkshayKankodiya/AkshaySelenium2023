@@ -40,9 +40,9 @@ public class Automation_test {
     }
 
 
-    @AfterClass
+   /* @AfterClass
     public void closeDriver() {
         driver.quit();
-    }
+    }*/
 
 }
