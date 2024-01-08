@@ -40,40 +40,42 @@ public class Automation_Page extends ElementsActions  {
     // Go to Registration page
     public void randomEmailPage() throws InterruptedException {
 
-        actionClass.inputText(inputTextbox, ConstantData.USERNAME);
+        actionClass.inputText(inputTextbox, ConstantData.USERNAME,"Username Text box Field");
 
         //To Genrate Randome Email
 
-        actionClass.clickElement(regstrationEmail);
+        actionClass.clickElement(regstrationEmail,"Registration Email Text Box" );
         Random randomGenerator = new Random();
         int randomInt = randomGenerator.nextInt(1000);
         regstrationEmail.sendKeys("Akshay" + randomInt + "@gmail.com");
         System.out.println("Akshay" + randomInt + "@gmail.com");
-        actionClass.clickElement(registartionButton);
+        actionClass.clickElement(registartionButton,"Registration Email Text Box");
 
     }
     // fill the Registration page
 
     public void fillFormPage() throws InterruptedException {
-        actionClass.clickElement(radioBtnMale);
-        actionClass.inputText(passWordtextbox, ConstantData.PASSWORD);
-        actionClass.selectByVisibilityText(dayDropdown, ConstantData.DAY);
-        actionClass.selectByIndex(monthDropdown, ConstantData.MONTH);
-        actionClass.selectByVisibilityText(yearDropdown, ConstantData.YEAR);
-        actionClass.inputText(fNameTextbox, ConstantData.FIRSTNAME);
-        actionClass.inputText(lNameTextbox, ConstantData.LASTTNAME);
-        actionClass.inputText(compTextbox, ConstantData.COMPANY);
-        actionClass.inputText(add1Textbox, ConstantData.ADDRESS1);
-        actionClass.inputText(add2Textbox, ConstantData.ADDRESS2);
-        actionClass.selectByVisibilityText(contryDropdown, ConstantData.COUNTRY);
-        actionClass.inputText(stateTextbox, ConstantData.STATE);
-        actionClass.inputText(cityTextbox, ConstantData.CITY);
-        actionClass.inputText(zipTextbox, ConstantData.ZIPCODE);
-        actionClass.inputText(mobTextbox, ConstantData.MOBILE);
-        actionClass.clickElement(createAccBtn);
+        actionClass.clickElement(radioBtnMale,"Radio Button Male");
+        actionClass.inputText(passWordtextbox, ConstantData.PASSWORD,"Password Text Box Field");
+        actionClass.selectByVisibilityText(dayDropdown, ConstantData.DAY,"Day DropDown Field");
+        actionClass.selectByIndex(monthDropdown, ConstantData.MONTH,"Month DropDown Field");
+        actionClass.selectByVisibilityText(yearDropdown, ConstantData.YEAR,"Year DropDown Field");
+        actionClass.inputText(fNameTextbox, ConstantData.FIRSTNAME,"First Name Text box Field");
+        actionClass.inputText(lNameTextbox, ConstantData.LASTTNAME," Last Name Text box Field");
+        actionClass.inputText(compTextbox, ConstantData.COMPANY," Compony Text box Field");
+        actionClass.inputText(add1Textbox, ConstantData.ADDRESS1," Address 1 Text box Field");
+        actionClass.inputText(add2Textbox, ConstantData.ADDRESS2," Address 2 Text box Field");
+        actionClass.selectByVisibilityText(contryDropdown, ConstantData.COUNTRY," Country DropDown Field");
+        actionClass.inputText(stateTextbox, ConstantData.STATE," State Text box Field");
+        actionClass.inputText(cityTextbox, ConstantData.CITY," City Text box Field");
+        actionClass.inputText(zipTextbox, ConstantData.ZIPCODE," ZIPCODE Text box Field");
+        actionClass.inputText(mobTextbox, ConstantData.MOBILE,"Mobile Text box Field");
+        actionClass.clickElement(createAccBtn,"Create Account Button");
         System.out.println("Account is created Succsessfully");
-        actionClass.verifyAccountCreateUrl(ConstantData.ExpectedSuccessPageURL);
         actionClass.verifyAccountCreateElement(SuccessMessage);
+        actionClass.verifyAccountCreateUrl(ConstantData.ExpectedSuccessPageURL);
+        actionClass.assertWithCondition(ConstantData.ExpectedSuccessPageURL,SuccessMessage);
+
 
     }
     /*

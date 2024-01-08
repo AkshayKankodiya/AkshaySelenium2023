@@ -21,17 +21,17 @@ public class Automation_test {
     }
 
     @Test(priority = 0)
-    public void setupBrowsertest() throws InterruptedException {
+    public void setupBrowserTest() throws InterruptedException {
         page.setupBrowserpage();
     }
 
-    @Test(priority = 1)
-    public void randomEmailtest() throws InterruptedException {
+    @Test(priority = 1, dependsOnMethods = "setupBrowserTest")
+    public void randomEmailTest() throws InterruptedException {
         page.randomEmailPage();
 
     }
 
-    @Test(priority = 2)
+    @Test(priority = 2, dependsOnMethods = "randomEmailTest")
     public void fillFormTest() throws InterruptedException {
         page.fillFormPage();
 
@@ -40,9 +40,9 @@ public class Automation_test {
     }
 
 
-   /* @AfterClass
+    @AfterClass
     public void closeDriver() {
         driver.quit();
-    }*/
+    }
 
 }
