@@ -47,6 +47,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.Automation_test.executor": "Run",
+    "TestNG.D:/PROJECT JAVA/AkshaySelenium2023/Java/DemoSelenium/ParraleltestClass.xml.executor": "Run",
+    "TestNG.DepandancyDemo.executor": "Run",
+    "TestNG.GroupBytestDemo.executor": "Run",
+    "TestNG.Parameter.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -57,7 +61,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Automation_test">
+  <component name="RunManager">
     <configuration name="Automation_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AkshaySelenium2023" />
       <extension name="coverage">
@@ -86,6 +90,16 @@
       <option name="PACKAGE_NAME" value="JAVA_Pract.actions" />
       <option name="MAIN_CLASS_NAME" value="JAVA_Pract.actions.Browser" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/PROJECT JAVA/AkshaySelenium2023/Java/DemoSelenium/ParraleltestClass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AkshaySelenium2023" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Java/DemoSelenium/ParraleltestClass.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -126,31 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testclass.firstrun" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Testclass" />
-      <option name="METHOD_NAME" value="firstrun" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/PROJECT JAVA/AkshaySelenium2023/Java/DemoSelenium/ParraleltestClass.xml" />
         <item itemvalue="TestNG.Automation_test" />
         <item itemvalue="TestNG.Testclass" />
         <item itemvalue="TestNG.Page" />
         <item itemvalue="TestNG.Browser" />
-        <item itemvalue="TestNG.Testclass.firstrun" />
       </list>
     </recent_temporary>
   </component>
