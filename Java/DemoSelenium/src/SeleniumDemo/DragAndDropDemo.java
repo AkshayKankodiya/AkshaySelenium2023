@@ -1,4 +1,4 @@
-package SeleniumDemo;
+package JAVA_Pract.SeleniumDemo;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -43,7 +43,7 @@ public class DragAndDropDemo {
         Actions actionbox5 =new Actions(driver);
         actionbox5.moveToElement(smallBox).dragAndDropBy(smallBox,-100,50).build().perform();
 
-
+        driver.quit();
 
 
     }

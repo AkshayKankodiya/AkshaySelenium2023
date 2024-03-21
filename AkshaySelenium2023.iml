@@ -10,22 +10,25 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/jcommander-1.82.jar!/" />
-          <root url="jar://$USER_HOME$/Downloads/selenium-server-4.13.0.jar!/" />
-          <root url="jar://$USER_HOME$/Downloads/testng-7.4.0.jar!/" />
-          <root url="file://$MODULE_DIR$" />
+          <root url="jar://$MODULE_DIR$/Java/jaar/testng-7.9.0.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/Java/DemoAK/src" />
-          <root url="file://$MODULE_DIR$/Java/DemoSelenium/src" />
-        </SOURCES>
+        <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/selenium-server-4.16.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/Java/jaar/jcommander-1.82.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Java/jaar/selenium-server-4.18.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

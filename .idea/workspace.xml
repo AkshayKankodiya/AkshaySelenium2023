@@ -5,7 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="017c819e-829d-407b-abe8-48852d3bf4c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java/jaar/jcommander-1.82.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/jaar/selenium-server-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/jaar/testng-7.9.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AkshaySelenium2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AkshaySelenium2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoAK/src/ArrayDemo/Arraytest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/Arraytest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoAK/src/Operators/LogicalOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/LogicalOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoAK/src/Star_Pattern/Star1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/Star1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoAK/src/Star_Pattern/Star2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/Star2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoAK/src/Star_Pattern/src/Star_Pattern/star3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/star3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DemoFreamwork/Automation_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/DriverFact/Action_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DatePickerp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DemoForGIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DemoForGIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Drag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Drag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DragAndDropDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DragAndDropDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DropDownDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DynamicXpathYahoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/DynamicXpathYahoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FileUploadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/FileUploadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Matrimony.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/Matrimony.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RadioButtonsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RadioButtonsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RegisterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/RegisterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SwitchWindoDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/DemoSelenium/src/SeleniumDemo/SwitchWindoDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DemoFreamwork/Automation_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/Action_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AkshaySelenium2023/JAVA_Pract/DriverFact/Action_class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/DatePicker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/DatePickerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/DatePickerDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/DatePickerp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/DemoForGIT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/Drag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/DragAndDropDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/DropDownDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/DynamicXpathYahoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/FileUploadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/Matrimony.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/RadioButtonsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/RegisterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AkshaySelenium2023/SeleniumDemo/SwitchWindoDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +79,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2WcSEhKNKUBcVjW2pqPeF5xJuRN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,22 +89,87 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Arraytest.executor": "Run",
+    "Application.DatePicker.executor": "Run",
+    "Application.DragAndDropDemo.executor": "Run",
+    "Application.DynamicXpathYahoo.executor": "Run",
+    "Application.FrameHandler.executor": "Run",
+    "Application.JAVA_Pract.Star1.executor": "Run",
+    "Application.LogicalOP.executor": "Run",
+    "Application.RadioButtonsDemo.executor": "Run",
     "Application.RegisterDemo.executor": "Run",
+    "Application.SliderDemo.executor": "Run",
+    "Application.Star1.executor": "Run",
+    "Application.star3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.Automation_test.executor": "Run",
     "TestNG.BlogContentCompIY.executor": "Run",
+    "TestNG.MainClassExecutionTest.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/HP/Downloads/selenium-server-4.16.1.jar",
+    "last_opened_file_path": "C:/Users/HP/Documents/GitHub/AkshaySelenium2023/Java/jaar/selenium-server-4.18.1.jar",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Arraytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.Arraytest" />
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_Pract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JAVA_Pract.Star1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.Star1" />
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_Pract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.LogicalOP" />
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_Pract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Star1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Star1" />
+      <module name="AkshaySelenium2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Star_Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Automation_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AkshaySelenium2023" />
       <extension name="coverage">
@@ -76,82 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Browser" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.actions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.actions" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.actions.Browser" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Page" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Page" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Testclass" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Testclass" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Testclass.firstrun" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AkshaySelenium2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVA_Pract.DemoFreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JAVA_Pract.DemoFreamwork" />
-      <option name="MAIN_CLASS_NAME" value="JAVA_Pract.DemoFreamwork.Testclass" />
-      <option name="METHOD_NAME" value="firstrun" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JAVA_Pract.Star1" />
+        <item itemvalue="Application.LogicalOP" />
+        <item itemvalue="Application.Arraytest" />
+        <item itemvalue="Application.Star1" />
         <item itemvalue="TestNG.Automation_test" />
-        <item itemvalue="TestNG.Testclass" />
-        <item itemvalue="TestNG.Page" />
-        <item itemvalue="TestNG.Browser" />
-        <item itemvalue="TestNG.Testclass.firstrun" />
       </list>
     </recent_temporary>
   </component>
@@ -183,5 +225,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

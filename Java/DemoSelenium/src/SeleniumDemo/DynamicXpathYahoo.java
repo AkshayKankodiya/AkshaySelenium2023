@@ -1,4 +1,4 @@
-package SeleniumDemo;
+package JAVA_Pract.SeleniumDemo;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -32,7 +32,7 @@ public class DynamicXpathYahoo {
         Thread.sleep(5000);
         List<WebElement> list1 = driver.findElements(By.xpath("//*[contains(text(),'java')]"));
         System.out.println("Elenmets are find  :" + list1.size());
-        list1.get(12).click();
+        list1.get(2).click();
 
         Thread.sleep(3000);
 
